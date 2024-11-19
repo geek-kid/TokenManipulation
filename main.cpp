@@ -23,7 +23,7 @@ int main() {
         return (FALSE);
     };
 
-    // IDK What is. ask about this
+    // IDK What is this. ask about this
     pe32.dwSize = sizeof(PROCESSENTRY32);
 
     try {
